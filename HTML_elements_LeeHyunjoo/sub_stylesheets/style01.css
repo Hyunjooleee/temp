@@ -15,8 +15,10 @@ ul li{
     margin: 5px;
     width: 200px;
     border-radius: 6px;
+    border: 1px solid gray;
     padding: 5px;
 }
 .st3{
     background: green;
+    border: 1px solid gray;
 }

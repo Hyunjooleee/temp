@@ -9,3 +9,14 @@
 .st2{
     color: black;
 }
+ul li{
+    list-style-type: none;
+    background: lightgray;
+    margin: 5px;
+    width: 200px;
+    border-radius: 6px;
+    padding: 5px;
+}
+.st3{
+    background: green;
+}

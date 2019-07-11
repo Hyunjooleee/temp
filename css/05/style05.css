@@ -1,0 +1,11 @@
+.st1{
+    margin: 20px 0 0 50px;
+    border: solid;
+}
+.st2{
+    background-color: lightgrey;
+    width: 400px;
+    border: 25px solid green;
+    padding: 50px;
+    margin: 25px;
+}

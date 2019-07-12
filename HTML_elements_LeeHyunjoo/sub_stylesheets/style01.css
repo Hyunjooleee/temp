@@ -1,5 +1,5 @@
 .st1{
-    background-color: #009933;
+    background-color: #4caf50;
     padding: 10px;
     margin: 10px;
     color: white;
@@ -19,6 +19,23 @@ ul li{
     padding: 5px;
 }
 .st3{
-    background: #009933;
+    background: #4caf50;
+    border: 1px solid gray;
+}
+.st4{
+    background-color: #57afe9;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+    text-align: left;
+    border-radius: 3px;
+}
+.st5{
+    background-color: lightgray;
+    padding: 10px;
+    margin: 10px;
+    color: black;
+    text-align: center;
+    border-radius: 3px;
     border: 1px solid gray;
 }

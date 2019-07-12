@@ -1,0 +1,14 @@
+.div1{
+    border: 3px solid #4caf50;
+    padding: 5px;
+    height: 180px;
+}
+.img{
+    float: right;
+}
+.div2{
+    width: 200px;
+    height: 100px;
+    border: 1px dotted black;
+    overflow: scroll;
+}

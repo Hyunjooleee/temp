@@ -34,7 +34,7 @@ tr:hover{background-color: yellow;}
     padding: 1px;
     margin: 5px;
     float: left;
-    width: 200px;
+    width: 20%;
 }
 .st3 a{
     color: black;
@@ -44,7 +44,6 @@ tr:hover{background-color: yellow;}
     text-decoration: none;
     border-radius: 5px;
     border: 1px solid lightgray;
-    width: 200px;
     }
 .st3 li{
     margin: 10px;   

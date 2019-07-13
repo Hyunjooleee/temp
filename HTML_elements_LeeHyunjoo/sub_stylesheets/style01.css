@@ -1,7 +1,7 @@
 table{
     border-collapse: collapse;
     border: 1px solid lightgray;
-    width: 800px;
+    width: 100%;
 }
 
 th,td{
@@ -32,21 +32,23 @@ tr:hover{background-color: yellow;}
     overflow: hidden;
     color: lightgray;
     padding: 1px;
-    margin: 5px;
+    margin: 0px;
     float: left;
-    width: 20%;
+    width: 300px;
 }
 .st3 a{
+    display: inline-block;
     color: black;
     background-color: #f2f2f2;
     text-align: left;
-    padding: 3px 30px;
+    padding: 3px;
     text-decoration: none;
     border-radius: 5px;
     border: 1px solid lightgray;
+    width: 80%;
     }
 .st3 li{
-    margin: 10px;   
+    margin: 5px 10px; 
 }
 .st3 a:hover{
     background-color: #4caf50;
@@ -75,6 +77,6 @@ tr:hover{background-color: yellow;}
     float: left;
 }
 .st6{
-    width: 800px;
+    width: 64%;
     float: left;
 }
